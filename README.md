@@ -111,28 +111,28 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 <details>
 <summary><h2>CBBE的安裝過程選項</h2></summary>
 
-## **Body Shape (體形)**
+### **Body Shape (體形)**
 
 - Slim : 苖條的, CBBE預設的身形, 女性身形較苖條.
 - Curvy : 豐滿的, 基於原版的CBBE架構, 身形比例較逼真.
 - Vanilla : Skyrim的內建身形, 腰部較粗, 胸部較低, 骨盆較寬.
 
-## **Underwear Options (內衣選項)**  
+### **Underwear Options (內衣選項)**  
 
 - Underwear : Skyrim的內建身形, 也就是脫光衣服後還是保持有穿內衣的外觀.
 - NeverNude : Skyrim的內建身形, 不穿內衣.
 - None : 都不使用.
 
-## **Outfit Optionis (服裝選項)**  
+### **Outfit Optionis (服裝選項)**  
 
 - Vanilla Outfits : Skyrim的內建服裝.
 
-## **Face Options (臉部選項)**  
+### **Face Options (臉部選項)**  
 
 - Face Pack : 面膜
 - Dirt to Beauty Marks : 添加污垢與美人痣
 
-## **Eyebrow Options (眉毛選項)**  
+### **Eyebrow Options (眉毛選項)**  
 
 - Thin + Trimmed Brows : 稀疏加修剪的眉毛.
 - Thin + Trimmed Brows (Light) : 稀疏加修剪的眉毛 (淡色).
@@ -142,15 +142,15 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 - Bushier Brows (Light) : 濃密的眉毛 (淡色)
 - None: 不使用
 
-## **Miscellaneous (其他)**  
+### **Miscellaneous (其他)**  
 
 - Pubic Hair : 陰毛
 
-## **SKEE (RaceMenu)**  
+### **SKEE (RaceMenu)**  
 
 - RaceMenu Morphs (BodyMorph) : 搭配RaceMenu模組的變形功能.
 
-## **Morph Files (變形檔案)**  
+### **Morph Files (變形檔案)**  
 
 - Morph Files (Body) : 變形檔案, 針對身體
 - Morph Files (Outfits) : 變形檔案, 針對服裝
@@ -160,13 +160,13 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 <details>
 <summary><h2>XPMSSE的安裝過程選項</h2></summary>
 
-## **Installation (安裝)**  
+### **Installation (安裝)**  
 
 - Extended : 擴充版
 - Basic : 基本版
 - Minimal : 最低需求版
 
-## **Animation Rig Map (動畫綁定貼圖)**  
+### **Animation Rig Map (動畫綁定貼圖)**  
 
 - XPMS(S)E Latest : 最新的動畫綁定貼圖, 完全支援所有實體插件的身體物理效果,例如HDT和CBP(C), 支援最新的動畫資料格式.  
 需要FNIS或Nemesis模組.
@@ -176,7 +176,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 需要FNIS或Nemesis模組.
 - None : 不使用.
 
-## **Character and Weapons (角色和武器)**  
+### **Character and Weapons (角色和武器)**  
 
 - **Ingame Customizing (遊戲內自訂)**  
   - RaceMenu + XPMS(S)E MCM : 為RaceMenu用戶使用XPMSE的外掛程式在遊戲內進行自訂的功能.  
@@ -228,7 +228,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 <details>
 <summary><h2>HDT-SMP的安裝過程選項</h2></summary>
 
-## **Skyrim version (上古卷軸天際線版本)**  
+### **Skyrim version (上古卷軸天際線版本)**  
 
 - VR : 使用Skyrim VR版本才選這個.
 - 1.5.97 :
@@ -240,14 +240,14 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 - 1.6.1179 : 在GOG購買的版本會是這一個.
 - Not yet supported : FSMP不支援你目前的 Skyrim 版本.
 
-## **CUDA or not (使用CUDA加速運算, 或不使用)**  
+### **CUDA or not (使用CUDA加速運算, 或不使用)**  
 
 - CUDA : 使用NVidia API的通用處理來加速GPU的運算.
 如果你希望使用CUDA GPU加速, 就必須在 configs.xml 檔案裡啟用CUDA. 但目前CUDA GPU加速功能還沒能夠做到最佳化.
 根據部分使用者回饋反應, FSMP的CUDA版本與NVidia的Linux驅動程式不相容, 如果你使用Linux的運作環境, 建議使用Not CUDA版本.
 - NOT CUDA (recommended) : 不使用CUDA (建議)
 
-## **AVX (Advanced Vector Extensions 進階向量擴充指令集)**  
+### **AVX (Advanced Vector Extensions 進階向量擴充指令集)**  
 
 建議你拿CPU型號去問ChatGPT, 它會告訴你是否有支援你想搭配的指令集.
 
@@ -256,7 +256,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 - AVX2 : 使用AVX2指令集, 可以使用更好的效能.
 - AVX512 : 使用AVX-512指令集 (不支援Intel的CPU), 可以帶來更好的效能.
 
-## **Configuration (配置)**  
+### **Configuration (配置)**  
 
 - Install FSMPM - The FSMP MCM (recommended) : 在MCM裡增加可調整FSMP的環境配置選單(建議)
 - No MCM - Extreme performance (recommended) : 不使用MCM調整, 使用configs.xml檔案進行最佳化物理模擬.
@@ -288,7 +288,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - 使用真實時間,而非世界時間.
   - 在同時擁有SMP頭髮和SMP假髮時, 兩者都會進行物理計算.
 
-## **User guide and validator (使用者指南和驗證器)**  
+### **User guide and validator (使用者指南和驗證器)**  
 
 - **FSMPU - The FSMP User guide (FSMP的使用者指南)**  
 
@@ -311,7 +311,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
       - 檢查模板和擴充功能是否引用聲明的名稱.
       - 提供大量標籤和屬性的文件檔.
 
-## **該模組作者最後推薦幾個模組, 可以視個人需求去安裝**  
+### **該模組作者最後推薦幾個模組, 可以視個人需求去安裝**  
 
 | 模組名稱 | 說明 |
 | --- | --- |
@@ -326,7 +326,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
 <details>
 <summary><h2>3BA的安裝過程選項</h2></summary>
 
-## **CBBE 3BBB Advanced Main (安裝主要進階檔案)**  
+### **CBBE 3BBB Advanced Main (安裝主要進階檔案)**  
 
 - **CBBE 3BA Base (基本安裝)**  
   - Base install : 基本安裝
@@ -343,7 +343,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Base install : 基本安裝
   - Pre-built Body mesh : 安裝帶有預設曲線的裸體網格.
 
-## **Base CBPC (基本的)**  
+### **Base CBPC (基本的)**  
 
 - **Physics Type Select (物理類型選擇)**
   - Base CBPC : 安裝基本的CBPC.
@@ -359,7 +359,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Performance (Limited) : 最低需求的性能.
   在可見的地方停用NPC的物理特性, 但物理作用在玩家周圍仍然有效, 如果你不想損失任何FPS, 請使用這個選項.
 
-## **Physics Selecting (物理選擇)**  
+### **Physics Selecting (物理選擇)**  
 
 - **Physics Select (物理選擇)**  
   - SMP and CBPC (Lite) : 精簡版
@@ -387,7 +387,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
     CBPC : 腹部, 陰道口, 臀部, 腿部, 乳房.
     不增加SMP切換(咒語和熱鍵)和MCM.
 
-## **(CBPC) Boobs Physics Preset (胸部物理預設值)**  
+### **(CBPC) Boobs Physics Preset (胸部物理預設值)**  
 
 - **Boobs Physics Preset (CBBE 3BBB) (胸部實體預設值)**
   - Very Softness : 非常極度柔軟的搖晃.
@@ -421,7 +421,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Add auto Push-Up : 穿著服裝和盔甲時增加乳房推高效果.
   - Don't add auto Push-Up : 不添加乳房推高效果.
 
-## **(CBPC-NewType) Belly, Butt, Leg Physics Preset (腹部, 臀部, 腿部物理預設值)**  
+### **(CBPC-NewType) Belly, Butt, Leg Physics Preset (腹部, 臀部, 腿部物理預設值)**  
 
 - **Belly Physics Preset (腹部物理預設值)**
   - Very Soft (Big jiggle) : 非常柔軟, 像脂肪一樣, 而且搖晃很大.
@@ -439,7 +439,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Elastic (Big jiggle) : 彈性大, 而且抖動大.
   - Elastic (Small jiggle) : 有彈性, 而且輕微晃動.
 
-## **(SMP) Player Physics Preset (玩家物理預設值)**  
+### **(SMP) Player Physics Preset (玩家物理預設值)**  
 
 - **Boobs Physics Preset (胸部物理預設值)**
   - Option 1 : 平穩搖晃, 乳房幾乎不會下垂, 所以衣服和身材不會受到影響.
@@ -451,7 +451,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Small jiggle (B cup) : 輕微的搖晃和柔軟度, 推薦給小胸部使用.
   - A bit or no jiggle (A cup) : 有一點晃動, 或沒有晃動, 推薦給扁平胸部使用.
 
-## **(CBPC) Extra Physics (額外物理作用)**  
+### **(CBPC) Extra Physics (額外物理作用)**  
 
 - **SOS Physics (Schlongs of Skyrim SE模組的物理)**
   - CBPC - RegularSOS : 增加陰莖和陰囊的彈性, 陰莖通常呈現鬆軟狀態, 但在性交過程中會變硬, 這與SexLab和Osex模組相容.
@@ -465,7 +465,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - Add anal collision : 使用肛門CBPC物理碰撞, 而不是用動畫來打開肛門.
     安裝XPMSSE時, 請確保使用4.51 rig檔案的選項.
 
-## **Extra Textures (額外紋理)**  
+### **Extra Textures (額外紋理)**  
 
 - **Vagina Textures (陰道口紋理)**
   - Pink - 1K : 粉紅色, 使用粉紅色的陰道口紋理, 平衡眾多類型以匹配大多數的顏色.
@@ -490,7 +490,7 @@ _「Caliente's Beautiful Bodies Enhancer」的模組作者強烈建議玩家要�
   - SSS Black : 修正青銅色光澤的錯誤, 將身體鏡面反射貼圖紋理替換為黑色貼圖.
   當你有遇到角色身體有"青銅色光澤"這種情況時才需要這個選項.
 
-## **Extra Patches (額外修正)**  
+### **Extra Patches (額外修正)**  
 
 - **Compatible Patch (相容性修正)**
   - FlowerGirls : 修正與FlowerGirls模組一起使用時, 身體的SMP有時會移除的問題.
