@@ -1,0 +1,13 @@
+.vscode/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+.markdownlint.json
+
+*.tmp
+*.bak
+*.swp
+*.rar
+*.zip
+*.7z
